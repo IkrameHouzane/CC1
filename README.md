@@ -10,15 +10,15 @@ Ce projet est une application de gestion de factures, développée avec **Angula
 - Interface utilisateur moderne avec Bootstrap
 - API REST sécurisée pour gérer les entités
 ## 🚀 Installation et Lancement
-
-### Cloner le projet
+# Cloner le projet
 git clone https://github.com/IkrameHouzane/facture-application.git
 
-### Installer les dépendance
+# Installer les dépendances
 npm install
 
-### Lancer le serveur de développement
+# Lancer le serveur de développement
 npm start
+
 ### Voici à quoi ressemble l'interface réalisée (avant la connexion à MongoDB) : 
  ![image](https://github.com/user-attachments/assets/5e0deaaf-1fce-4861-a81b-55362c50538e)
 
