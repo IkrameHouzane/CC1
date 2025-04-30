@@ -20,8 +20,7 @@ npm install
 ### Lancer le serveur de développement
 npm start
 ### Voici à quoi ressemble l'interface réalisée (avant la connexion à MongoDB) : 
-                                                   
-                                 ![image](https://github.com/user-attachments/assets/5e0deaaf-1fce-4861-a81b-55362c50538e)
+ ![image](https://github.com/user-attachments/assets/5e0deaaf-1fce-4861-a81b-55362c50538e)
 
 
 
